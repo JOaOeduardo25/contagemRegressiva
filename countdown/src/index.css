@@ -1,0 +1,12 @@
+/* Reset de estilos */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Adicionado para corrigir o modelo de caixa */
+  font-family: Helvetica, sans-serif; /* Corrigido o nome da fonte */
+}
+
+/* Estilos para o corpo da página */
+body {
+  min-height: 100vh; /* Corrigido o nome da propriedade */
+}
